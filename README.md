@@ -20,6 +20,7 @@ PWM capture mode in STM32F407
    ```
 
 6. 创建一个application文件夹，将capture_task的cpp及.h文件均加入后即可。
+7. 可直接在**float duty　float period_ms**　这两个全局变量读出周期与占空比。
 
 ### 注意问题
 
