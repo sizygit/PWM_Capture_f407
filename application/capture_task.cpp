@@ -6,6 +6,7 @@
 #include "tim.h"
 #include "usart.h"
 
+
 uint32_t risingValue;
 uint32_t fallingValue;
 float duty;
